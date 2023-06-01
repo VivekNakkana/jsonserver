@@ -1,0 +1,147 @@
+{
+  "scenario": [
+    {
+      "id": "6b5f573c-5bf0-4a07-a8eb-a11ae2e94f38",
+      "name": "Javascript",
+      "time": "50"
+    },
+    {
+      "id": "224be934-616d-4393-99f5-7a4ab44c3c6a",
+      "name": "Fast and Furious",
+      "time": "30"
+    },
+    {
+      "id": "37482c45-8f29-428a-9e3c-b1bb2a911e04",
+      "name": "Kakinada",
+      "time": "90"
+    }
+  ],
+  "vehicle": [
+    {
+      "id": "47e88662-958b-4ff3-b196-c0274bbe68fb",
+      "name": "Bus",
+      "speed": 300,
+      "positionX": 3,
+      "positionY": 30,
+      "direction": "Downward",
+      "scenarioId": "b797e1ce-3711-4f6a-b5e1-0f10e36af335"
+    },
+    {
+      "id": "3463c70f-ab50-4cf3-bf74-1464310446e1",
+      "name": "Bus",
+      "speed": 30,
+      "positionX": 333,
+      "positionY": 445,
+      "direction": "Towards",
+      "scenarioId": "19962253-508d-44a5-b2fa-7d9f4561ad2b"
+    },
+    {
+      "id": "becb6fcc-3c0a-4757-812c-61dbc7ae4265",
+      "name": "Bus",
+      "speed": 56,
+      "positionX": 77,
+      "positionY": 7,
+      "direction": "Upward",
+      "scenarioId": "b797e1ce-3711-4f6a-b5e1-0f10e36af335"
+    },
+    {
+      "id": "c31b9a43-cd9f-45e5-a483-6b01ee9b073c",
+      "name": "Jeep",
+      "speed": 40,
+      "positionX": 7,
+      "positionY": 7,
+      "direction": "Upward",
+      "scenarioId": "b797e1ce-3711-4f6a-b5e1-0f10e36af335"
+    },
+    {
+      "id": "3a984e88-fbdf-4cdb-aeb1-a906315e8ce7",
+      "name": "ReactJs",
+      "speed": 78,
+      "positionX": 7,
+      "positionY": 6,
+      "direction": "Downward",
+      "scenarioId": "b797e1ce-3711-4f6a-b5e1-0f10e36af335"
+    },
+    {
+      "id": "875a4ba1-2091-4e16-a579-26df69100f3c",
+      "name": "Hrithik",
+      "speed": 20,
+      "positionX": 4,
+      "positionY": 10,
+      "direction": "Upward",
+      "scenarioId": "6a5129ed-8cf8-4823-992a-ef89959909f3"
+    },
+    {
+      "id": "bb221e6d-6b63-4f5b-a13f-1b30133f1d55",
+      "name": "Gundu",
+      "speed": 60,
+      "positionX": 4,
+      "positionY": 4,
+      "direction": "Backwards",
+      "scenarioId": "224be934-616d-4393-99f5-7a4ab44c3c6a"
+    },
+    {
+      "id": "a83efd21-c369-4675-ab9a-fd641fd8a239",
+      "name": "Jeep",
+      "speed": 88,
+      "positionX": 88,
+      "positionY": 88,
+      "direction": "Upward",
+      "scenarioId": "224be934-616d-4393-99f5-7a4ab44c3c6a"
+    },
+    {
+      "id": "397946a7-b540-4b28-abfb-78823ab3ce6f",
+      "name": "506",
+      "speed": 60,
+      "positionX": 90,
+      "positionY": 90,
+      "direction": "Towards",
+      "scenarioId": ""
+    },
+    {
+      "id": "cf7aac3a-5b17-45f3-bbe0-3e69e87704e0",
+      "name": "506",
+      "speed": 20,
+      "positionX": 7,
+      "positionY": 5,
+      "direction": "Upward",
+      "scenarioId": ""
+    },
+    {
+      "id": "864a9084-5f73-428a-bfc3-73118019e6a0",
+      "name": "ReactJs",
+      "speed": 66,
+      "positionX": 6,
+      "positionY": 6,
+      "direction": "Upward",
+      "scenarioId": ""
+    },
+    {
+      "id": "e62df938-347a-40e2-900c-3fd4ce979bd1",
+      "name": "Dhoom Dhaam",
+      "speed": 56,
+      "positionX": 4,
+      "positionY": 2,
+      "direction": "Backwards",
+      "scenarioId": "37482c45-8f29-428a-9e3c-b1bb2a911e04"
+    },
+    {
+      "id": "e58d2fff-9abd-4e10-9e91-d5cb632e3c39",
+      "name": "Bhooom",
+      "speed": 23,
+      "positionX": 1,
+      "positionY": 3,
+      "direction": "Upward",
+      "scenarioId": "224be934-616d-4393-99f5-7a4ab44c3c6a"
+    },
+    {
+      "id": "4e3e985f-9270-4b07-ac0e-5c6e3c069289",
+      "name": "ReactJs",
+      "speed": 10,
+      "positionX": 20,
+      "positionY": 20,
+      "direction": "Upward",
+      "scenarioId": "6b5f573c-5bf0-4a07-a8eb-a11ae2e94f38"
+    }
+  ]
+}
